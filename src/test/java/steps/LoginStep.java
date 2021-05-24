@@ -15,6 +15,7 @@ public class LoginStep {
 	
 	@Before
 	public void setup() {
+		System.out.println("Testing github setup");
 		System.out.println("browser launched");
 	}
 	@After
