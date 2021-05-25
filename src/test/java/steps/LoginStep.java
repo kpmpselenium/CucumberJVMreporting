@@ -15,7 +15,8 @@ public class LoginStep {
 	
 	@Before
 	public void setup() {
-		System.out.println("Testing github setup and jenkins setup again");
+		//System.out.println("Testing github setup and jenkins setup again");
+		System.out.println("Testing EGit plugin");
 		System.out.println("browser launched");
 	}
 	@After
